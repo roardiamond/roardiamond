@@ -66,13 +66,171 @@ Actively exploring **cyber security** fundamentals and working daily with **Kali
 
 <br>
 
+<br>
+
+### Additional Technical Skills
+
+<!-- Frontend -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Cyber-Security%20%26%20Ethical%20Hacking-0d0d1a?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-Kali%20Linux-blueviolet?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Networking%20%7C%20Linux%20%7C%20Bash-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Payments-UPI%20%2F%20Razorpay-a855f7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PWA-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responsive_Design-7C3AED?style=for-the-badge" />
 </div>
 
+<br>
+
+<!-- Backend & APIs -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge" />
+</div>
+
+<br>
+
+<!-- Databases -->
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database_Design-7C3AED?style=for-the-badge" />
+</div>
+
+<br>
+
+<!-- DevOps & Cloud -->
+<div align="center">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SSH-A855F7?style=for-the-badge&logo=openssh&logoColor=white" />
+  <img src="https://img.shields.io/badge/DNS-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SSL%2FTLS-A855F7?style=for-the-badge" />
+</div>
+
+<br>
+
+<!-- Linux & Networking -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Scripting-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux_Admin-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTTP%2FHTTPS-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Networking-7C3AED?style=for-the-badge" />
+</div>
+
+<br>
+
+<!-- Cybersecurity -->
+<div align="center">
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_Top_10-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web_Security-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Network_Security-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Secure_Coding-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vulnerability_Assessment-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Reconnaissance-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CTF-0D0D1A?style=for-the-badge" />
+</div>
+
+<br>
+
+<!-- Security Concepts -->
+<div align="center">
+  <img src="https://img.shields.io/badge/SQL_Injection-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XSS-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSRF-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API_Security-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Authentication_Security-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Authorization-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Session_Security-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Input_Validation-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rate_Limiting-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Encryption-A855F7?style=for-the-badge" />
+</div>
+
+<br>
+
+<!-- Mobile -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/PWA-7C3AED?style=for-the-badge" />
+</div>
+
+<br>
+
+<!-- Developer Tools -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
+</div>
+
+<br>
+
+<!-- Testing -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Testing-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/E2E_Testing-A855F7?style=for-the-badge" />
+</div>
+
+<br>
+
+<!-- AI -->
+<div align="center">
+  <img src="https://img.shields.io/badge/AI_API_Integration-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_APIs-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenRouter-0D0D1A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge" />
+</div>
+
+<br>
+
+<!-- Payments -->
+<div align="center">
+  <img src="https://img.shields.io/badge/UPI-5F259F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Razorpay-3395FF?style=for-the-badge&logo=razorpay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Payment_Gateway-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Webhooks-A855F7?style=for-the-badge" />
+</div>
+
+<br>
 ---
 
 ### Cyber & Security
