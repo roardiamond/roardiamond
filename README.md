@@ -275,20 +275,20 @@ Actively exploring **cyber security** fundamentals and working daily with **Kali
 ### GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=roardiamond&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roardiamond&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=c084fc&text_color=e2e8f0" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=roardiamond&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roardiamond&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=c084fc&text_color=e2e8f0" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roardiamond&theme=radical&hide_border=true&background=0d0d1a&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideNums=c084fc&currStreakNum=ffffff&sideLabels=a855f7&dates=a855f7" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=roardiamond&theme=radical&hide_border=true&background=0d0d1a&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideNums=c084fc&currStreakNum=ffffff&sideLabels=a855f7&dates=a855f7" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roardiamond&bg_color=0d0d1a&color=c084fc&line=a855f7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roardiamond&bg_color=0d0d1a&color=c084fc&line=a855f7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
